@@ -223,7 +223,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: daa616503f57b684c84120b57a4968e7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  MoveSpeed: 2
+  MoveSpeed: 5
   rigidbody: {fileID: 141895815}
   animator: {fileID: 1100351277}
 --- !u!50 &141895815
@@ -383,7 +383,7 @@ MonoBehaviour:
   - {x: 0.0021419525, y: -0.0066119432, z: 0}
   m_ShapePathHash: -1448322153
   m_Mesh: {fileID: 0}
-  m_InstanceId: -29416
+  m_InstanceId: -159580
 --- !u!95 &1100351277
 Animator:
   serializedVersion: 4
